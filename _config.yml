@@ -1,5 +1,5 @@
-title: vida
-baseurl: "/vida"
+title: lums.io
+# baseurl: "/vida"
 
 date_format: "%Y-%m-%d"
 
@@ -8,7 +8,7 @@ kramdown:
   input: GFM
 permalink: pretty
 
-# Third-party serviceS
+# Third-party services
 # just leave someone empty to disable it
 google_analytics:
 disqus_shortname:
