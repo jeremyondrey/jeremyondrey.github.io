@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Stuff about me lelelelellelelbelbelebelbelbelbelebleblbe
 
-- Email:  jeremy@lums.io
+- jeremy@lums.io
 - [Soundcloud](https://soundcloud.com/lumsdnb)
 - [Bandcamp](https://lums.bandcamp.com)
 - [Twitter](https://twiter.com/lumsdnb)
