@@ -4,12 +4,6 @@ title:     PROJECTS
 permalink: /projects/
 ---
 
-
-<p><a href="/io_one"><img src="/images/portfolio/io_one.png" alt="" /></a></p>
-
-
-[![](/images/portfolio/exposed.png)](/exposed)
-
 [![](/images/portfolio/exposed.png)](/exposed)
 
 [![](/images/portfolio/io_one.png)](/io_one)
