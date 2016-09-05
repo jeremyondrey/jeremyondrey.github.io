@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script>
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
 
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 
@@ -13,12 +24,15 @@
     <main>
         <header class="site-header">
           
-            <nav class="site-nav">
-                <a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active{% endif %}">lums.io</a>
-                <a href="{{ site.baseurl }}/music/" class="{% if page.url == '/music/' %}active{% endif %}">MUSIC</a>
-                <a href="{{ site.baseurl }}/projects/" class="{% if page.url == '/projects/' %}active{% endif %}">PROJECTS</a>
-                <a href="{{ site.baseurl }}/about/" class="{% if page.url == '/about/' %}active{% endif %}">ABOUT</a>
-            </nav>
+            <ul class="topnav" id="myTopnav">
+  <li><a href="/">lums.io</a></li>
+  <li><a href="/music">MUSIC</a></li>
+  <li><a href="/projects">PROJECTS</a></li>
+  <li><a href="/about">ABOUT</a></li>
+  <li class="icon">
+    <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
+  </li>
+</ul>
         </header>
         {{ content }}
     </main>
