@@ -6,6 +6,6 @@ permalink: /drumthips/
 <div align="center">
 <br> 
 
-<p>heblelelelellele beleblebelbe</p>
+<i>More content soon</i>
 
 </div>

@@ -8,6 +8,6 @@ permalink: /io_one/
 
 <br> 
 
-<p>hsadlhdflhdsaflohsao</p>
+
 
 </div>

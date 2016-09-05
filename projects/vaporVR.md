@@ -9,6 +9,6 @@ permalink: /vaporvr/
 <p> yeah
 </p>
  <br>
-<i>Appeared in the Echo for 2 seconds.</i>
+<i>More content soon</i>
 
 </div>
