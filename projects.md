@@ -10,8 +10,4 @@ permalink: /projects/
 
 [![](/images/portfolio/dave.png)](/dave)
 
-[![](/images/portfolio/vaporvr.png)](/vaporvr)
-
 [![](/images/portfolio/cryptroller.png)](/cryptroller)
-
-[![](/images/portfolio/drumthips.png)](/drumthips)

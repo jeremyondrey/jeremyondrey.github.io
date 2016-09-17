@@ -8,6 +8,6 @@ permalink: /dave/
 
 <br> 
 
-<p>Dave, a teenager in the future, has a simple life. A misunderstanding with his AI prevents him from meeting his crush, which forces him to think of other ways of escaping his house. Created by <a href="https://derrazputin.artstation.com/">Carl</a>, <a href="https://rohanyang.artstation.com/">Rohan</a> and <a href="https://de.linkedin.com/in/felix-schmid-46443110b/en">Felix</a>. <br> I did sound design and music, special thanks to Richard Deffner for contributing additional music.</p>
+<p>Dave, a teenager in the future, has a simple life. A misunderstanding with his AI prevents him from meeting his crush, which forces him to think of other ways of escaping his house. Created by <a href="https://derrazputin.artstation.com/">Carl</a>, <a href="https://rohanyang.artstation.com/">Rohan</a> and <a href="https://de.linkedin.com/in/felix-schmid-46443110b/en">Felix</a>. <br> Roles: Sound design, foley, music. Richard Deffner contributed additional music.</p>
 
 </div>
