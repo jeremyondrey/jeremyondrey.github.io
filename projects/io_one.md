@@ -1,6 +1,6 @@
 ---
 layout:    page
-title:     BINARY INSTRUMENTS // IO ONE
+title:     IO ONE
 permalink: /io_one/
 ---
 <div align="center">

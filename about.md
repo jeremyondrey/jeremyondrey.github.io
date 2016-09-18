@@ -4,12 +4,14 @@ title:     ABOUT
 permalink: /about/
 ---
 
-Fun facts
+Fun facts about me
 
-- jeremy@lums.io
 - music producer and cross media something
+- sometimes calls himself an artist
 - likes interesting technology
 - is boring on [Twitter](https://twitter.com/lumsdnb)
 - these aren't really fun facts
+
+contact me: jeremy@lums.io
 
 ###### Theme based on [vida](https://github.com/syaning/vida) by Alex Sun. Site hosted on [Github](https://pages.github.com/).
