@@ -6,7 +6,7 @@ permalink: /about/
 
 Fun facts about me
 
-- music producer and cross media something
+- music producer // sound designer
 - sometimes calls himself an artist
 - likes interesting technology
 - is boring on [Twitter](https://twitter.com/lumsdnb)
