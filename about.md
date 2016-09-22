@@ -6,7 +6,7 @@ permalink: /about/
 
 Fun facts about me
 
-- sound designer // media artist [vvvv noob manual, page 14](https://twitter.com/lumsdnb)http://lums.io/images/vvvv.png)
+- sound designer // media artist
 - likes interesting technology
 - is boring on [Twitter](https://twitter.com/lumsdnb)
 - these aren't really fun facts
