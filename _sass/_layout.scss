@@ -46,7 +46,7 @@ main {
 .post {
     position: relative;
     .post-header {
-        text-align: center;
+        text-align: left;
         margin-bottom: 0;
     }
     .post-meta {
@@ -136,4 +136,18 @@ ul.topnav li.icon {display: none;}
     display: block;
     text-align: left;
   }
+}
+
+
+.fadeimg{
+    img{
+      opacity: 1;
+      transition: opacity .25s ease-in-out;
+      -moz-transition: opacity .25s ease-in-out;
+      -webkit-transition: opacity .25s ease-in-out;
+      }
+
+      img:hover {
+       opacity: 0.6;
+       }
 }
