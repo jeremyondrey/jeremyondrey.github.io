@@ -14,4 +14,5 @@ Fun facts about me
 contact me: jeremy@lums.io
 
 ###### Theme based on [vida](https://github.com/syaning/vida) by Alex Sun. Site hosted on [Github](https://pages.github.com/).
+
 ###### [Imprint](/imprint) (legally required)
