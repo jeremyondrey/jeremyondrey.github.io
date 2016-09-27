@@ -8,5 +8,8 @@ permalink: /io_one/
 
 <br> 
 <p>The IO ONE is a hardware prototype that works just like a musical instrument. Instead of learning a fretboard or a musical scale, you have to understand the underlying binary system. Once mastered, the controller turns into a fun tool for improvising scales, launching samples or triggering visuals.</p>
+<br> 
+<p>The project was featured on the official <a href="https://blog.arduino.cc/2016/06/15/binary-io-is-an-arduino-powered-four-button-midi-controller/">Arduino blog</a>.</p>
 </div>
-<h5>Created together with Benjamin Weber</h5>
+
+<h5>Created together with Benjamin Weber.</h5>
