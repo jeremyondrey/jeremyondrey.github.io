@@ -26,7 +26,7 @@ E-Mail: jeremy@lums.io
 
 ### Indication of source for images and graphics
 
-```Benjamin Weber (various projects)
+```Benjamin Weber
 ```
 
 ### Disclaimer

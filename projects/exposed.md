@@ -12,5 +12,6 @@ The project was displayed at Kunsthalle Darmstadt.
 
 </div>
 <h5>Team: Benjamin Weber, Richard Deffner, Jeremy Ondrey</h5>
+<h5>Photos: Benjamin Weber</h5>
 
 ![](/images/portfolio/exposed/3.jpg)
