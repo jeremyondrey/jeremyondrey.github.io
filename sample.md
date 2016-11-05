@@ -1,7 +1,7 @@
 ---
 layout:    page
 title:     Sample
-permalink: /sample/
+permalink: 
 ---
 
 Sample for style ref
@@ -102,3 +102,8 @@ var arr = [1, 2, 3, 4, 5];
 var b = arr.map(x => x * x);
 console.log(b);
 ```
+
+
+<p> EXPOSED is an interactive 3D audio installation that further drives the discussion of big data in today's society. A simple white pillar picks up electromagnetic signals from smartphones placed on it and turns the data we carry with us every day into an immersive audible experience. <br><a href="/exposed">Read more</a></p>
+
+</p>
