@@ -3,6 +3,16 @@ layout:    projects
 title:     PROJECTS
 permalink: /projects/
 ---
+<!--
+<div class="section group">
+	<div class="col span_1_of_2">
+	<a href="/vsn"><img width="100%" height="100%" src="/images/portfolio/vsn.png"> </a>
+	</div>
+	<div class="col span_1_of_2">
+	
+	</div>
+</div>
+-->
 
 <div class="section group">
 	<div class="col span_1_of_2">
