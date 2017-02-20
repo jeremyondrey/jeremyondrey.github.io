@@ -21,7 +21,7 @@ After comparing various designs, the shape stuck out for some reason I couldn't 
 	Lights are an important part of the events we organize. We believe that most club lighting systems have too many features and put too little focus on what's important. Our approach consists of a flexible LED stripe system, created by Michael Rieker. Our custom software solution is audioreactive, which means that when no music is playing, the room is pitch black. This works really well in a club context, because light and sound are perfectly in sync with each other.
 </p>
 
-<img src="/images/portfolio/audiovision/vsn_lights.png">
+<img src="/images/portfolio/audiovision/vsn_lights.png" width="100%" height="100%">
 
 </div>
 

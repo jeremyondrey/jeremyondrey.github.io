@@ -1,6 +1,6 @@
 ---
 layout:    page
-title:     VAPORVR
+title:     VAPOR_VR
 permalink: /vaporvr/
 ---
 <br>
