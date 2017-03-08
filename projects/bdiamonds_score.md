@@ -10,7 +10,7 @@ permalink: /diamonds_score/
 
 <br>
 <p>While working on <a href="/diamonds">Blood Diamonds</a>, we developed a 16 minute long soundtrack. This format worked well, because it allowed us to tell a much more detailed story than what would have been possible in the relatively short video.
-Richard was responsible for orchestral and other "real" instruments, while I focused on modular synth grooves and electronic soundscapes. <br>
+Richard was responsible for orchestral composition and arrangement, while I focused on modular synth grooves and electronic soundscapes. <br>
 The score is based on a documentary about conflict diamonds and is meant to be listened to in one piece, which is why there is no tracklist.
 <br>
 <a href="/diamonds">Watch the video</a>
