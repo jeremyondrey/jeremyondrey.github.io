@@ -11,7 +11,7 @@ The project was displayed at Kunsthalle Darmstadt.
 </p>
 
 </div>
-<h5>Team: Benjamin Weber, Richard Deffner, Jeremy Ondrey</h5>
+<h5>Student project at <a href="https://www.h-da.de/"> h_da Hochschule Darmstadt. </a><br>Team: Benjamin Weber, Richard Deffner, Jeremy Ondrey</h5>
 <h5>Photos: Benjamin Weber</h5>
 
 ![](/images/portfolio/exposed/3.jpg)

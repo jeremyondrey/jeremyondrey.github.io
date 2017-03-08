@@ -12,4 +12,4 @@ permalink: /io_one/
 The project was featured on the official <a href="https://blog.arduino.cc/2016/06/15/binary-io-is-an-arduino-powered-four-button-midi-controller/">Arduino blog</a>.</p>
 </div>
 
-<h5>Created together with Benjamin Weber.</h5>
+<h5>Student project at <a href="https://www.h-da.de/"> h_da Hochschule Darmstadt. </a><br>Created together with Benjamin Weber.</h5>

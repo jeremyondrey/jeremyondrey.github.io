@@ -4,7 +4,7 @@ title:     PROJECTS
 permalink: /projects/
 ---
 
-<!--<div class="section group">
+<div class="section group">
 	<div class="col span_1_of_2">
 	<a href="/vsn"><img width="100%" height="100%" src="/images/portfolio/vsn.png"> </a>
 	</div>
@@ -12,7 +12,7 @@ permalink: /projects/
 	<a href="/diamonds"><img width="100%" height="100%" src="/images/portfolio/diamonds.png"> </a>
 	</div>
 </div>
--->
+
 
 <div class="section group">
 	<div class="col span_1_of_2">
