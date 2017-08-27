@@ -13,7 +13,7 @@ I am a
 
 Get in touch on [Instagram](https://instagram.com/lumsdnb), [Twitter](https://twitter.com/lumsdnb) or via jeremy@lums.io
 
-[Check out my music collection.](https://bandcamp.com/iamlums)
+[Check out my music collection.](https://bandcamp.com/lumsdnb)
 
 
 ###### Theme based on [vida](https://github.com/syaning/vida) by Alex Sun. Site hosted on [Github](https://pages.github.com/).

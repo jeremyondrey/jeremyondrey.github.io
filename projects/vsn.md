@@ -6,6 +6,9 @@ permalink: /vsn/
 
 <div align="center">
 
+<p> Audiovision is a local soundsystem crew based in Darmstadt, DE. Find out about upcoming events on <a href="https://www.facebook.com/audiovsn">Facebook</a> and <a href="https://www.instagram.com/audiovsn/">Instagram</a>.
+</p>
+
 <img src="/images/portfolio/audiovision/w.png" width="60%" height="60%">
 
 <p> The logo for audiovision is based on audioreactive visuals that we use at our events.
@@ -22,7 +25,6 @@ After comparing various designs, the shape stuck out for some reason I couldn't 
 </p>
 
 <img src="/images/portfolio/audiovision/vsn_lights.png" width="100%" height="100%">
-
 </div>
 
 <h5>Credit: Michael Rieker (LED stripes)</h5>
