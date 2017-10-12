@@ -6,12 +6,12 @@ permalink: /vsn/
 
 <div align="center">
 
-<p> Audiovision is a local soundsystem crew based in Darmstadt, DE. Find out about upcoming events on <a href="https://www.facebook.com/audiovsn">Facebook</a> and <a href="https://www.instagram.com/audiovsn/">Instagram</a>.
+<p> audiovision is a local soundsystem crew based in Darmstadt, DE. Find out about upcoming events on <a href="https://www.facebook.com/audiovsn">Facebook</a> and <a href="https://www.instagram.com/audiovsn/">Instagram</a>.
 </p>
 
 <img src="/images/portfolio/audiovision/w.png" width="60%" height="60%">
 
-<p> The logo for audiovision is based on audioreactive visuals that we use at our events.
+<p> The logo for audiovision is based on audioreactive visuals that we use at our events. The idea being that you have to actually come to our events to see what it looks like in motion, since video recordings of our systems never capture the full experience :)
 <br>
 <br>
 After comparing various designs, the shape stuck out for some reason I couldn't describe. Despite its chaotic edges and assymetrical proportions, it remains recognizable, it sticks out on simple and textured backgrounds, and best of all: once you come to an event, you see it in motion. It looks odd at first glance, but invites you to take a closer look.
