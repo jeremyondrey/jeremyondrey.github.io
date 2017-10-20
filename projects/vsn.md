@@ -1,6 +1,6 @@
 ---
 layout:    page
-title:     AUDIOVISION
+title:     audiovision
 permalink: /vsn/
 ---
 
