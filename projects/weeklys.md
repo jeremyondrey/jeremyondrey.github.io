@@ -6,7 +6,7 @@ permalink: /weeklys/
 <div align="center">
 
 <br>
-<p>I upload something to Soundcloud every week. This turned out to be the best way for me to get better at the music I make, because otherwise I'd never finish anything, ever. It forces me to waste less time and focus my workflow, and after a month i end up with some cool samples that were created in the process as well.
+<p>I upload something to Soundcloud every week. This turned out to be the best way for me to get better at the music I make, because otherwise I'd never finish anything, ever. It forces me to waste less time and focus my workflow, and after a month I end up with some cool samples that were created in the process as well.
 </p>
 
 <p>Follow the process on Souncloud:</p>
