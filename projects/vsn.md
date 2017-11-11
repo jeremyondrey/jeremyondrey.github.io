@@ -14,15 +14,16 @@ permalink: /vsn/
 <p> The logo for audiovision is based on audioreactive visuals that we use at our events. The idea being that you have to actually come to our events to see what it looks like in motion, since video recordings of our systems never capture the full experience :)
 <br>
 <br>
-After comparing various designs, the shape stuck out for some reason I couldn't describe. Despite its chaotic edges and assymetrical proportions, it remains recognizable, it sticks out on simple and textured backgrounds, and best of all: once you come to an event, you see it in motion. It looks odd at first glance, but invites you to take a closer look.
+We had a couple design mockups, the shape was just a test render from our visual system. Turns out this worked better than every other planned design we had. The shape is instantly recognizable, it sticks out on simple and textured backgrounds, and best of all: once you come to an event, you see it in motion. It looks odd at first glance, but invites you to take a closer look.
 </p>
 
 
 
 <h1 align="left">LIGHTS</h1>
 <p>
-	Lights are an important part of the events we organize. We believe that most club lighting systems have too many features and put too little focus on what's important. Our approach consists of a flexible LED stripe system, created by Michael Rieker. Our custom software solution is audioreactive, which means that when no music is playing, the room is pitch black. This works really well in a club context, because light and sound are perfectly in sync with each other.
+	Lights are an important part of the events we organize. We believe that most club lighting systems have too many features and put too little focus on what's important. Our approach consists of a flexible LED stripe system, which syncs with a Max/MSP/openGL projection. Our system is audioreactive, which means that when no music is playing, the room is pitch black. This works really well in a club context, because light and sound are perfectly in sync with each other.
 </p>
+<p>Some additional control is needed, but this is completely wireless. Phone/tablet apps control a couple patterns and parameters. This can be done from multiple devices simultaneously, which provides us with lots of flexibility during live situations. In the future, we hope to make this system completely autonomous.</p>
 
 <img src="/images/portfolio/audiovision/vsn_lights.png" width="100%" height="100%">
 </div>

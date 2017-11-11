@@ -6,8 +6,8 @@ permalink: /exposed/
 ![](/images/portfolio/exposed/2.jpg)
 <br>
 <div align="center">
-<p> EXPOSED is an interactive 3D audio installation that further drives the discussion of big data in today's society. A simple white pillar with built in microphone coils picks up electromagnetic signals from smartphones placed on it. This sound is spatialized in realtime through an ambisonics speaker setup, turning the data we carry with us every day into an immersive audible experience. <br>
-The project was displayed at Kunsthalle Darmstadt.
+<p> EXPOSED is an interactive 3D audio installation which vizualizes the data we carry around in our pockets. A simple white pillar with built in microphone coils picks up electromagnetic signals from smartphones placed on it. This sound is spatialized in realtime through an ambisonics speaker setup, turning otherwise silent data into an immersive audible experience. <br>
+The project was displayed at Kunsthalle Darmstadt in 2016.
 </p>
 
 </div>
