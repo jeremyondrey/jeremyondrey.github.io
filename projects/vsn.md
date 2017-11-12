@@ -25,7 +25,7 @@ We had a couple design mockups, the shape was just a test render from our visual
 </p>
 <p>Some additional control is needed, but this is completely wireless. Phone/tablet apps control a couple patterns and parameters. This can be done from multiple devices simultaneously, which provides us with lots of flexibility during live situations. In the future, we hope to make this system completely autonomous.</p>
 
-<img src="/images/portfolio/audiovision/vsn_lights.png" width="100%" height="100%">
+<img src="/images/portfolio/audiovision/vsn_lights.PNG" width="100%" height="100%">
 </div>
 
 <h5>Credit: Michael Rieker (LED stripes)</h5>
