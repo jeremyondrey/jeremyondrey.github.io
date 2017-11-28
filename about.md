@@ -10,11 +10,19 @@ I am a
 - producer
 - media artist
 
+I offer a variety of (mostly audio related) services, if you like something you see in a project of mine and want something similar, feel free to get in touch.
 
-Get in touch on [Instagram](https://instagram.com/lumsdnb), [Twitter](https://twitter.com/lumsdnb) or via jeremy@lums.io
+My main focus right now is music production - my [weekly series](/weeklys) is intended to be a showcase of my current production skills. I offer project consultation, sound design and predominantly electronic music production. 
+I also teach concepts of the tools I use. My second Ableton Live music production course aims to help local producers improve and focus their abilities. If you are in Darmstadt, you#re invited to join.
+
+Max/MSP, Pure Data, vvvv and Arduino are my preferred tools for installations and hardware prototyping.
+
+My social feed on [Instagram](https://instagram.com/lumsdnb) documents most of my artistic process, my [Twitter](https://twitter.com/lumsdnb) account is a bit inactive but I respond to messages. If you want to get **real serious**, contact me at jeremy@lums.io
 
 [Check out my music collection.](https://bandcamp.com/lumsdnb)
 
+-----------------------
+<a style="float: right" href="/bitcoin"><img src="/images/btc.png"> </a>
 
 ###### Theme based on [vida](https://github.com/syaning/vida) by Alex Sun. Site hosted on [Github](https://pages.github.com/).
 
