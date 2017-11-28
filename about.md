@@ -18,7 +18,7 @@ I also teach concepts of the tools I use. My second Ableton Live music productio
 
 Max/MSP, Pure Data, vvvv and Arduino are my preferred tools for installations and hardware prototyping.
 
-My social feed on [Instagram](https://instagram.com/lumsdnb) documents most of my artistic process, my [Twitter](https://twitter.com/lumsdnb) account is a bit inactive but I respond to messages. If you want to get **real serious**, contact me at jeremy@lums.io
+My social feed on [Instagram](https://instagram.com/lumsdnb) documents most of my artistic process, my [Twitter](https://twitter.com/lumsdnb) account is a bit inactive but I respond to messages. If you want to get *real serious*, contact me at **jeremy@lums.io**
 
 [Check out my music collection.](https://bandcamp.com/lumsdnb)
 
