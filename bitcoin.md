@@ -4,7 +4,7 @@ title:     CRYPTO
 permalink: /bitcoin
 ---
 
-I accept Bitcoin and other cryptocurrencies as payment. I support an open, decentralized web and believe that supporting crypto along with traditional money is an important step in the right direction.
+I accept Bitcoin and other cryptocurrencies as payment. I support an open, decentralized web and believe that supporting crypto along with traditional fiat is an important step in the right direction.
 
 You can also send tips to:
 
