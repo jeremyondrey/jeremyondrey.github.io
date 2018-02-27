@@ -14,7 +14,7 @@ I offer a variety of (mostly audio related) services, if you like something you 
 
 My main focus right now is music production - my [weekly series](/weeklys) is intended to be a showcase of my current production skills. I offer project consultation, sound design and predominantly electronic music production. 
 
-I also teach concepts of the tools I use. My second Ableton Live music production course aims to help local producers improve and focus their abilities. If you are in Darmstadt, you#re invited to join.
+I also teach concepts of the tools I use. Get in touch if you’re around Darmstadt and want to learn music production in Ableton Live.
 
 Max/MSP, Pure Data, vvvv and Arduino are my preferred tools for installations and hardware prototyping.
 
