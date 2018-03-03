@@ -4,6 +4,8 @@ title:     ABOUT
 permalink: /about/
 ---
 
+I am a
+
 - sound designer 
 - producer
 - media artist
