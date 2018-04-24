@@ -6,7 +6,7 @@ permalink: /vsn/
 
 <div align="center">
 
-<p> audiovision is a local soundsystem crew based in Darmstadt, DE. Find out about upcoming events on <a href="https://www.facebook.com/audiovsn">Facebook</a> and <a href="https://www.instagram.com/audiovsn/">Instagram</a>.
+<p> audiovision is a local soundsystem crew based in Darmstadt, DE. Find out about upcoming events on <a href="https://www.soundcloud.com/audiovsn">Soundcloud</a>, <a href="https://www.facebook.com/audiovsn">Facebook</a> and <a href="https://www.instagram.com/audiovsn/">Instagram</a>.
 </p>
 
 <img src="/images/portfolio/audiovision/w.png" width="60%" height="60%">

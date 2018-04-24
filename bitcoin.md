@@ -4,12 +4,10 @@ title:     CRYPTO
 permalink: /bitcoin
 ---
 
-I accept Bitcoin and other cryptocurrencies as payment. I support an open, decentralized web and believe that supporting crypto along with traditional fiat is an important step in the right direction.
+I accept Bitcoin and other cryptocurrencies as payment for production/mixing/sound design work.
 
 You can also send tips to:
 
 <div style="color:#A1E8AF">BTC: 1LLZP8NFFvjwjsttsSBS89nrErdWaqnxLZ
-<br>
-DOGE: DN8V5aF64EWBTLk12YiAdfNez8F6en9JxC
 </div>
 //////////////////
