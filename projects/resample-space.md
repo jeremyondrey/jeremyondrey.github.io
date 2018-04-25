@@ -5,9 +5,9 @@ permalink: /resample-space/
 ---
 
 As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of music collaboration for sample based music.
-I'm using the term "blockchain" to describe a broad set of components, which together create a decentralized online platform.
+I'm using the term "blockchain" to describe a broad set of components, which together create a decentralized online platform which is immutable, censorship resistant and 
 
-This project will be used to create an EP in collaboration with other artists. While I've explicitly invited a couple people to participate, the tool will be available to any user with an internet connection and 2 browser extensions.
+This project will be used to create a sample based electronic music EP in collaboration with other artists. While I’ll be inviting a selected few to participate, the tool will be available to any user with an internet connection and 2 browser extensions.
 
 # IPFS
 As opposed to server based location addressing of files (HTTP), IPFS accesses content via unique (and long) hashes.
@@ -23,10 +23,11 @@ If you add a sound file to IPFS using the plugin, you'll get a long hash, which 
 
 # Ethereum
 
-Ethereum serves as the database which stores posted audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network.
+Ethereum serves as the database which stores posted audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network long term.
 
-To connect to the Ethereum blockchain, we use the [Metamask](https://metamask.io/) extension. Be sure to stay on the Rinkeby test network, as we're not using money with real value.
+To connect to the Ethereum blockchain, we use the [Metamask](https://metamask.io/) extension. Be sure to stay on the Rinkeby test network, as we're not using money with real value in this experiment.
 
 ![](/images/resample-space/metamask.png)
 
-If you have everything set up, head over to [resample.space](http://resample.space) to get involved!
+The tool is not live yet, but this guide should get everything you need ready. 
+This page will be updated with more info once the tool is finished.
