@@ -4,10 +4,13 @@ title:     resample.space
 permalink: /resample-space/
 ---
 
-As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of music collaboration for sample based music.
-I'm using the term "blockchain" to describe a broad set of components, which together create a decentralized online platform which is immutable, censorship resistant and 
+As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of decentralized music collaboration for sample based music.
+I'm using the term "blockchain" to describe a broad set of components, which together create a decentralized online platform which is immutable, censorship resistant and open to everyone.
 
-This project will be used to create a sample based electronic music EP in collaboration with other artists. While I’ll be inviting a selected few to participate, the tool will be available to any user with an internet connection and 2 browser extensions.
+This project will be used to create a sample based electronic music EP in collaboration with other artists. While I’ll be inviting a selected few to participate for my focus group, the tool will be available to any user with an internet connection and 2 browser extensions. This means that anyone can collaborate by adding their own sounds to the database, even if I didn’t invite them. 
+
+As such, each user is personally responsible for the content they upload.
+Please only share your own content, and keep in mind that by doing so it might end up in the music.
 
 # IPFS
 As opposed to server based location addressing of files (HTTP), IPFS accesses content via unique (and long) hashes.
@@ -19,11 +22,11 @@ To upload files, a fast way to get started is to use IPFS Companion for [Firefox
 
 If you add a sound file to IPFS using the plugin, you'll get a long hash, which represents the file in the network.
 
-![](/images/resample-space/ipfs_hash.png)
+![](/images/resample-space/ipfs_hash.PNG)
 
 # Ethereum
 
-Ethereum serves as the database which stores posted audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network long term.
+Ethereum serves as the database which stores the hashes linking to audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network long term.
 
 To connect to the Ethereum blockchain, we use the [Metamask](https://metamask.io/) extension. Be sure to stay on the Rinkeby test network, as we're not using money with real value in this experiment.
 
