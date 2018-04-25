@@ -4,6 +4,9 @@ title:     resample.space
 permalink: /resample-space/
 ---
 
+__The tool is not live yet, but this guide should get everything you need ready. 
+This page will be updated with more info once the tool is finished.__
+
 As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of decentralized music collaboration for sample based music.
 I'm using the term "blockchain" to describe a broad set of components, which together create a decentralized online platform which is immutable, censorship resistant and open to everyone.
 
@@ -32,5 +35,13 @@ To connect to the Ethereum blockchain, we use the [Metamask](https://metamask.io
 
 ![](/images/resample-space/metamask.png)
 
-The tool is not live yet, but this guide should get everything you need ready. 
-This page will be updated with more info once the tool is finished.
+# Usage
+
+You don’t have to finish tracks or be a great mix engineer to participate. resample.space allows users to take existing audio material, add to it and pass it back into the database for other users to iterate over. The most exciting pieces of music to result from this experiment are the ones slowly created from various different artists over multiple iterations.
+To get started, here are some ideas of what you could do:
+
+- create samples to upload
+- sample/process existing files to feed back into the database
+- sequence existing files into loops, melodies & grooves
+
+The more samples we create in the process, the more fun it’ll be!
