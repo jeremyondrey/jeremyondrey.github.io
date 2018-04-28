@@ -1,16 +1,16 @@
 ---
 layout:    page
-title:     resample.space
-permalink: /resample-space/
+title:     color_consensus
+permalink: /color_consensus/
 ---
 
-__The tool is not live yet, but this guide should get everything you need ready. 
+__The tool is not live yet, but this guide should get everything you need ready.
 This page will be updated with more info once the tool is finished.__
 
 As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of decentralized music collaboration for sample based music.
 I'm using the term "blockchain" to describe a broad set of components, which together create a decentralized online platform which is immutable, censorship resistant and open to everyone.
 
-This project will be used to create a sample based electronic music EP in collaboration with other artists. While I’ll be inviting a selected few to participate for my focus group, the tool will be available to any user with an internet connection and 2 browser extensions. This means that anyone can collaborate by adding their own sounds to the database, even if I didn’t invite them. 
+This project will be used to create a sample based electronic music EP in collaboration with other artists. While I’ll be inviting a selected few to participate for my focus group, the tool will be available to any user with an internet connection and 2 browser extensions. This means that anyone can collaborate by adding their own sounds to the database, even if I didn’t invite them.
 
 As such, each user is personally responsible for the content they upload.
 Please only share your own content, and keep in mind that by doing so it might end up in the music.
