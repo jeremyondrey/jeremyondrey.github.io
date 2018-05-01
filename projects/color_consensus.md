@@ -24,7 +24,7 @@ To upload files, a fast way to get started is to use IPFS Companion for [Firefox
 
 If you add a sound file to IPFS using the plugin, it'll spit out a long hash starting with Qm..
 
-![](/images/color_consensus/ipfs_hash.PNG)
+![](/images/color_consensus/ipfs_hash.png)
 
 This hash references back to your sound file. To share it with the world, it needs to be stored in a public way.
 
