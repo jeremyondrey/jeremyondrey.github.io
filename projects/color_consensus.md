@@ -8,7 +8,7 @@ As part of my bachelor thesis, I am conducting an experiment to find out if bloc
 
 ![](/images/color_consensus/colors.png)
 
-color_consensus is a decentralized database of sounds matched with color values. I will be using this to create music based on the samples and color values chosen by the uploaders.
+[color_consensus](http://colorconsensus.xyz) is a decentralized database of sounds matched with color values. I will be using this to create music based on the samples and color values chosen by the uploaders.
 While I’ll be inviting a couple artists to participate for my focus group, the tool will be available to any user with an internet connection and 2 browser extensions. This means that anyone can collaborate by adding their own sounds to the database, even if I didn’t invite them.
 
 As such, each user is personally responsible for the content they upload.
@@ -38,7 +38,7 @@ To connect to the Ethereum blockchain, please install the [Metamask](https://met
 
 # Usage
 
-You don’t have to finish tracks or be a great sound designer to participate. color_consensus allows users to upload any type of audio material and pass it back into the database for other users to use.
+You don’t have to finish tracks or be a great sound designer to participate. [color_consensus](http://colorconsensus.xyz) allows users to upload any type of audio material and pass it back into the database for others to use.
 To get started, here are some ideas of what you could do:
 
 - create samples from scratch
