@@ -12,7 +12,7 @@ color_consensus is a decentralized database of sounds matched with color values.
 While I’ll be inviting a couple artists to participate for my focus group, the tool will be available to any user with an internet connection and 2 browser extensions. This means that anyone can collaborate by adding their own sounds to the database, even if I didn’t invite them.
 
 As such, each user is personally responsible for the content they upload.
-Please only share your own content, and keep in mind that by doing so it might end up in the music.
+__Please only share your own content, and keep in mind that by doing so it might end up in the music.__
 
 # IPFS
 As opposed to server based location addressing of files (HTTP), IPFS accesses content via unique (and long) hashes.
@@ -32,7 +32,7 @@ This hash references back to your sound file. To share it with the world, it nee
 
 Ethereum serves as the database which stores the hashes linking to audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network long term.
 
-To connect to the Ethereum blockchain, please install the [Metamask](https://metamask.io/) extension. Be sure to select the Rinkeby test network, as we're not using money with real value in this experiment.
+To connect to the Ethereum blockchain, please install the [Metamask](https://metamask.io/) extension. __Be sure to select the Rinkeby test network, as we're not using money with real value in this experiment.__
 
 ![](/images/color_consensus/metamask.png)
 
