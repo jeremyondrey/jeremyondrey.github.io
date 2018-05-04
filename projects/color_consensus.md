@@ -32,6 +32,7 @@ This hash references back to your sound file. To share it with the world, it nee
 
 Ethereum serves as the database which stores the hashes linking to audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network long term.
 
+__Once a hash is stored in the database, it cannot be deleted. It will remain in the blockchain for as long as Ethereum exists.__
 To connect to the Ethereum blockchain, please install the [Metamask](https://metamask.io/) extension. __Be sure to select the Rinkeby test network, as we're not using money with real value in this experiment.__
 
 ![](/images/color_consensus/metamask.png)
