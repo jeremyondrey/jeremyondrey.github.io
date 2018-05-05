@@ -22,7 +22,7 @@ As such, each user is personally responsible for the content they upload.
 __Please only share your own content, and keep in mind that by doing so it might end up in the music.__
 
 # IPFS
-As opposed to server based location addressing of files (HTTP), IPFS accesses content via unique (and long) hashes.
+As opposed to server based location addressing of files (HTTP), the Inter Planetary File System accesses content via unique cryptographic hashes.
 In practise, this means that as long as at least one node in the network has the files, anyone can access them. All samples, and even the whole client side web interface of this project are hosted on IPFS.
 
 To upload files, a fast way to get started is to use IPFS Companion for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/) or [Chrome](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch).
@@ -35,11 +35,11 @@ If you add a sound file to IPFS using the plugin, it'll spit out a long hash sta
 
 This hash references back to your sound file. When another user requests the file, it will be served directly from the IPFS node in your browser. As more nodes have access to the file over time, the file becomes more accessible and increasingly more robust.
 
-If nobody knows the content hash, the sound can’t be heard by anyone. To solve this, we need a way of storing it in a public way.
+If nobody knows the content hash, the sound can’t be heard by anyone. To solve this, we need a way of sharing it with the public.
 
 # Ethereum
 
-Ethereum serves as the database which stores our sounds. Because IPFS hashes are hard to read by humans, users get to pick a color which they feel matches the uploaded sound.
+[Ethereum](https://en.m.wikipedia.org/wiki/Ethereum) serves as the database which stores our sounds. Because IPFS hashes are hard to read by humans, users get to pick a matching color for each upload.
 
 __Once a hash is stored in the database, it cannot be deleted. It will remain in the blockchain for as long as Ethereum exists.__
 
@@ -47,7 +47,7 @@ To connect to the Ethereum blockchain, please install the [Metamask](https://met
 
 ![](/images/color_consensus/metamask.png)
 
-With this extension, we are able to interact with the Ethereum blockchain. Reading from it is free, but writing to it costs a small amount of gas. Because we are on a test network, the currency we are using can be obtained [for free](https://faucet.rinkeby.io/)
+With this extension, we are able to interact with the Ethereum blockchain. Reading from it is free, but writing to it costs a small amount of gas. Because Rinkeby is a test network, the currency we are using can be obtained [for free](https://faucet.rinkeby.io/)
 
 # Usage
 
