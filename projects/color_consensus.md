@@ -8,15 +8,22 @@ As part of my bachelor thesis, I am conducting an experiment to find out if bloc
 
 ![](/images/color_consensus/colors.png)
 
-[color_consensus](http://colorconsensus.xyz) is a decentralized database of sounds matched with color values. I will be using this to create music based on the samples and color values chosen by the uploaders.
-While I’ll be inviting a couple artists to participate for my focus group, the tool will be available to any user with an internet connection and 2 browser extensions. This means that anyone can collaborate by adding their own sounds to the database, even if I didn’t invite them.
+[color_consensus](http://colorconsensus.xyz) is a decentralized database of sounds matched with color values. It is made up of 2 parts:
+
+- a content addressed data structure, which makes sound files available to users regardless of who hosts them
+
+- a blockchain, which lists files and their matching color values
+
+Music distribution is struggling with the fact that digital files are easy to share, color_consensus uses this fact as its main feature. Music as a form of expression should not have to depend on centralized platforms, which can shut down, lose data or get hacked.
+
+I’ll be inviting a couple artists to collaborate for a music project, but the page will be available to any user with an internet connection and 2 browser extensions. This means that anyone can participate by adding their own sounds to the database, even if I didn’t invite them.
 
 As such, each user is personally responsible for the content they upload.
 __Please only share your own content, and keep in mind that by doing so it might end up in the music.__
 
 # IPFS
 As opposed to server based location addressing of files (HTTP), IPFS accesses content via unique (and long) hashes.
-In practise, this means that as long as at least one node has the files, anyone can access them. All samples, and even the whole client side web interface of this project are hosted on IPFS.
+In practise, this means that as long as at least one node in the network has the files, anyone can access them. All samples, and even the whole client side web interface of this project are hosted on IPFS.
 
 To upload files, a fast way to get started is to use IPFS Companion for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/) or [Chrome](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch).
 
@@ -26,16 +33,21 @@ If you add a sound file to IPFS using the plugin, it'll spit out a long hash sta
 
 ![](/images/color_consensus/ipfs_hash.png)
 
-This hash references back to your sound file. To share it with the world, it needs to be stored in a public way.
+This hash references back to your sound file. When another user requests the file, it will be served directly from the IPFS node in your browser. As more nodes have access to the file over time, the file becomes more accessible and increasingly more robust.
+
+If nobody knows the content hash, the sound can’t be heard by anyone. To solve this, we need a way of storing it in a public way.
 
 # Ethereum
 
-Ethereum serves as the database which stores the hashes linking to audio samples. As it currently runs on a proof-of-work blockchain, storing data costs a small amount of gas. Reading from it, however, is free. The gas cost acts as a form of spam prevention, as a spammer would need to have infinite funds to spam the network long term.
+Ethereum serves as the database which stores our sounds. Because IPFS hashes are hard to read by humans, users get to pick a color which they feel matches the uploaded sound.
 
 __Once a hash is stored in the database, it cannot be deleted. It will remain in the blockchain for as long as Ethereum exists.__
-To connect to the Ethereum blockchain, please install the [Metamask](https://metamask.io/) extension. __Be sure to select the Rinkeby test network, as we're not using money with real value in this experiment.__
+
+To connect to the Ethereum blockchain, please install the [Metamask](https://metamask.io/) extension. __Be sure to select the Rinkeby test network, as we're not using real money in this experiment.__
 
 ![](/images/color_consensus/metamask.png)
+
+With this extension, we are able to interact with the Ethereum blockchain. Reading from it is free, but writing to it costs a small amount of gas. Because we are on a test network, the currency we are using can be obtained [for free](https://faucet.rinkeby.io/)
 
 # Usage
 
