@@ -6,6 +6,15 @@ permalink: /projects/
 
 <div class="section group">
 	<div class="col span_1_of_2">
+	<a href="/color_consensus"><img width="100%" height="100%" src="/images/portfolio/color_consensus.png"> </a>
+	</div>
+	<div class="col span_1_of_2">
+	<a href="/mindfulness"><img width="100%" height="100%" src="/images/portfolio/mindfulness.png"> </a>
+	</div>
+</div>
+
+<div class="section group">
+	<div class="col span_1_of_2">
 	<a href="/vsn"><img width="100%" height="100%" src="/images/portfolio/vsn.png"> </a>
 	</div>
 	<div class="col span_1_of_2">
