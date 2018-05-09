@@ -8,13 +8,13 @@ As part of my bachelor thesis, I am conducting an experiment to find out if bloc
 
 ![](/images/color_consensus/colors.png)
 
-[color_consensus](http://colorconsensus.xyz) is a decentralized database of sounds matched with color values. It is made up of 2 parts:
+[color_consensus](http://colorconsensus.xyz) is a decentralized database of sounds matched with color values. Its main components are:
 
-- a content addressed data structure, which makes sound files available to users regardless of who hosts them
+- a content addressed data structure (IPFS), which makes sound files available to users regardless of who hosts them
 
-- a blockchain, which lists files and their matching color values
+- a blockchain (Ethereum) and smart contracts, which list files and their matching color values
 
-Music distribution is struggling with the fact that digital files are easy to share, color_consensus uses this fact as its main feature. Music as a form of expression should not have to depend on centralized platforms, which can shut down, lose data or get hacked.
+Music distribution is struggling with the fact that digital files are easy to share, color_consensus uses this fact as its main feature. The platforme is designed to encourage a free flow of ideas, while being as simplified and open as possible. Music as a form of expression should not have to depend on centralized platforms, which can shut down, lose data or get hacked.
 
 I’ll be inviting a couple artists to collaborate for a music project, but the page will be available to any user with an internet connection and 2 browser extensions. This means that anyone can participate by adding their own sounds to the database, even if I didn’t invite them.
 
