@@ -9,11 +9,11 @@ body {
 
 ::selection {
     background: $link-color; /* WebKit/Blink Browsers */
-    color: $text-color;
+    color: #383F51;
 }
 ::-moz-selection {
     background: $link-color; /* Gecko Browsers */
-    color: $text-color;
+    color: #383F51;
 }
 
 p {
