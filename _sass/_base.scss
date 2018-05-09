@@ -6,6 +6,16 @@ body {
     line-height: $base-line-height;
     color: $text-color;
 }
+
+::selection {
+    background: $link-color; /* WebKit/Blink Browsers */
+    color: $text-color;
+}
+::-moz-selection {
+    background: $link-color; /* Gecko Browsers */
+    color: $text-color;
+}
+
 p {
     text-align: justify;
     word-break: break-word;
