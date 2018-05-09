@@ -30,7 +30,7 @@ To upload files, a fast way to get started is to use IPFS Companion for [Firefox
 
 ![](/images/color_consensus/ipfs_companion_embedded.png)
 
-To directly connect to IPFS, it is recommended to install the [CLI](https://ipfs.io/docs/install/). The directory contains an install.sh file, after which you run the commands `ipfs init` and `ipfs daemon` in your favorite command line. If you only use the web extension, links will default to the default gateway.
+To directly connect to IPFS nodes, it is recommended to install the [CLI](https://ipfs.io/docs/install/). The directory contains an install.sh file, after which you run the commands `ipfs init` and `ipfs daemon` in your favorite command line. If you only use the web extension, links will default to the ipfs.io gateway.
 
 If you add a sound file to IPFS using the plugin, it'll spit out a long hash starting with Qm..
 
