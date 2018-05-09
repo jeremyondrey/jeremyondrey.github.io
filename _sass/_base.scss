@@ -44,6 +44,11 @@ blockquote {
 img {
     max-width: 100%;
     pointer-events: none;
+    -khtml-user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 
