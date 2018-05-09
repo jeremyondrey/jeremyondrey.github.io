@@ -21,6 +21,7 @@ I’ll be inviting a couple artists to collaborate for a music project, but the 
 As such, each user is personally responsible for the content they upload.
 __Please only share your own content, and keep in mind that by doing so it might end up in the music.__
 
+
 # IPFS
 As opposed to server based location addressing of files (HTTP), the Inter Planetary File System accesses content via unique cryptographic hashes.
 In practise, this means that as long as at least one node in the network has the files, anyone can access them. All samples, and even the whole client side web interface of this project are hosted on IPFS.
@@ -28,6 +29,8 @@ In practise, this means that as long as at least one node in the network has the
 To upload files, a fast way to get started is to use IPFS Companion for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/) or [Chrome](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch).
 
 ![](/images/color_consensus/ipfs_companion_embedded.png)
+
+To directly connect to IPFS, it is recommended to install the [CLI](https://ipfs.io/docs/install/). The directory contains an install.sh file, after which you run the commands `ipfs init` and `ipfs daemon` in your favorite command line. If you only use the web extension, links will default to the default gateway.
 
 If you add a sound file to IPFS using the plugin, it'll spit out a long hash starting with Qm..
 
