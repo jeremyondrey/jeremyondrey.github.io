@@ -14,12 +14,13 @@ As part of my bachelor thesis, I am conducting an experiment to find out if bloc
 
 - a blockchain (Ethereum) and smart contracts, which list files and their matching color values
 
-Music distribution is struggling with the fact that digital files are easy to share, color_consensus uses this fact as its main feature. The platforme is designed to encourage a free flow of ideas, while being as simplified and open as possible. Music as a form of expression should not have to depend on centralized platforms, which can shut down, lose data or get hacked.
+Traditional music distribution is struggling with the fact that digital files are easy to share, color_consensus uses this as its main feature. The platform is designed to encourage a free flow of ideas, while being as simplified and open as possible. Music as a form of expression should not have to depend on centralized platforms, which can shut down, lose data or get hacked.
+Since all transactions are public, every upload can be traced back to the original uploader.
 
 I’ll be inviting a couple artists to collaborate for a music project, but the page will be available to any user with an internet connection and 2 browser extensions. This means that anyone can participate by adding their own sounds to the database, even if I didn’t invite them.
 
 As such, each user is personally responsible for the content they upload.
-__Please only share your own content, and keep in mind that by doing so it might end up in the music.__
+__Please only share your own content, and keep in mind that by doing so it might end up in other people's work.__
 
 
 # IPFS
