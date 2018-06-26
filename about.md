@@ -17,7 +17,7 @@ I'm on [Twitter](https://twitter.com/lumsdnb). If you want to get *real serious*
 [Check out my music collection.](https://bandcamp.com/lumsdnb)
 
 -----------------------
-<a style="float: right" href="/bitcoin"><img src="/images/btc.png"> </a>
+<img src="/images/btc.png">
 
 ###### Theme based on [vida](https://github.com/syaning/vida) by Alex Sun. Site hosted on [Github](https://pages.github.com/).
 
