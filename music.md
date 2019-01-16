@@ -5,17 +5,17 @@ permalink: /music/
 ---
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/576490155&color=%23866bb9&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-My first EP, out on din is noise records. [Grab it here](https://soundcloud.com/dinisnoiserecords/sets/lums-solar-ep)
+My first EP, out on din is noise records. [Soundcloud](https://soundcloud.com/dinisnoiserecords/sets/lums-solar-ep)
 <br>
 August 2018
 <br>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444910986&color=%23866bb9&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-First of a series of tracks hosted on a decentralized database. [Read more](/color_consensus)
+Part of my bachelor thesis which looks at the whole blockchain hype of 2017 in the context of electronic music.
 <br>
 May 2018
 <br>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/348298689&amp;color=383f51&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-To speed up my workflow, I upload a track every week. [Read more](/weeklys)
+To improve my workflow, I upload a track every week. [Read more](/weeklys)
 <br>
 Started in April 2017
 <br>
