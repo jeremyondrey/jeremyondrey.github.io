@@ -5,7 +5,7 @@ permalink: /color_consensus/
 ---
 
 
-#NOTE: most info on this page is outdated, as I'm currently looking into Bitcoin/Lightning based systems.
+## NOTE: most info on this page is outdated, as I'm currently looking into Bitcoin/Lightning based systems.
 
 
 As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of decentralized music collaboration for sample based music.
