@@ -3,7 +3,7 @@ layout:    page
 title:     MUSIC
 permalink: /music/
 ---
-<img src="/images/music/onset.jpg"></img>
+<a href="https://onsetaudio.bandcamp.com/album/triblsm85-dstnt85"<img src="/images/music/onset.jpg"></a>
 <br>
 New EP, [out now!](https://onsetaudio.bandcamp.com/album/triblsm85-dstnt85)
 <br>
