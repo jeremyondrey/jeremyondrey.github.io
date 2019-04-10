@@ -3,7 +3,11 @@ layout:    page
 title:     MUSIC
 permalink: /music/
 ---
-
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3199804284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://onsetaudio.bandcamp.com/album/triblsm85-dstnt85">TRIBLSM85 / DSTNT85 by lums &amp; [[-CRBRL-CTS-]]</a></iframe>
+New EP, [out now!](https://onsetaudio.bandcamp.com/album/triblsm85-dstnt85)
+<br>
+March 2019
+<br>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/576490155&color=%23866bb9&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 My first EP, out on din is noise records. [Soundcloud](https://soundcloud.com/dinisnoiserecords/sets/lums-solar-ep)
 <br>
