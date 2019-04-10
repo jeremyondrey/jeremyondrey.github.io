@@ -3,7 +3,7 @@ layout:    page
 title:     MUSIC
 permalink: /music/
 ---
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3199804284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://onsetaudio.bandcamp.com/album/triblsm85-dstnt85">TRIBLSM85 / DSTNT85 by lums &amp; [[-CRBRL-CTS-]]</a></iframe>
+<iframe style="border: 0; width: 400px; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=3199804284/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="http://onsetaudio.bandcamp.com/album/triblsm85-dstnt85">TRIBLSM85 / DSTNT85 by lums &amp; [[-CRBRL-CTS-]]</a></iframe>
 New EP, [out now!](https://onsetaudio.bandcamp.com/album/triblsm85-dstnt85)
 <br>
 March 2019
