@@ -3,7 +3,14 @@ layout:    page
 title:     MUSIC
 permalink: /music/
 ---
-<a href="https://fntlps.bandcamp.com"><img src="/images/music/fntlps1.jpg"></a>
+<a href="https://fntlps.bandcamp.com/album/fntlps2"><img src="/images/music/fntlps2.png"></a>
+<br>
+Second finit-loops release with dreadmaul and moqwa.
+<br>
+January 2020
+<br>
+
+<a href="https://fntlps.bandcamp.com/album/fntlps1"><img src="/images/music/fntlps1.png"></a>
 <br>
 Finally started a label with some friends. This is our first release.
 <br>
