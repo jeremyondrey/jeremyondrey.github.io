@@ -4,13 +4,9 @@ title:     ABOUT
 permalink: /about/
 ---
 
-I am a
+I [make](https://soundcloud.com/lumsdnb) and mix music. I also build digital prototypes.
 
-- sound designer
-- producer
-- media artist
-
-I do a bunch of different (mostly audio related) things, if you like what you see in a project of mine and want something similar, feel free to get in touch at **jeremy@lums.io**
+If you like what you see in a project of mine and want something similar, feel free to get in touch at **jeremy@lums.io**
 
 [Check out my music collection.](https://bandcamp.com/lumsdnb)
 

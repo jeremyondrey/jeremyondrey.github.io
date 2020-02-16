@@ -7,10 +7,10 @@ permalink: /projects/
 
 <div class="section group">
 	<div class="col span_1_of_2">
-		<a href="/aeris"><img width="100%" height="100%" src="/images/portfolio/aeris.png"> </a>
+		<a href="/minesweeper"><img width="100%" height="100%" src="/images/portfolio/minesweeper.png"> </a>
 	</div>
 	<div class="col span_1_of_2">
-		<a href="/vsn"><img width="100%" height="100%" src="/images/portfolio/vsnn.png"> </a>
+		<a href="/aeris"><img width="100%" height="100%" src="/images/portfolio/aeris.png"> </a>
 	</div>
 </div>
 
@@ -30,8 +30,12 @@ permalink: /projects/
 	</div>
 	<div class="col span_1_of_2">
 	</div>
+	<div class="col span_1_of_2">
+		<a href="/audiovsn"><img width="100%" height="100%" src="/images/portfolio/vsnn.png"> </a>
+	</div>
+	<div class="col span_1_of_2">
+	</div>
 </div>
-
 
 ## FILM & GAME SOUND DESIGN
 
