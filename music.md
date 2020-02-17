@@ -5,7 +5,7 @@ permalink: /music/
 ---
 <a href="https://fntlps.bandcamp.com/album/fntlps2"><img src="/images/music/fntlps2.png"></a>
 <br>
-Second finit-loops release with dreadmaul and moqwa.
+Second finite-loops release with dreadmaul and moqwa.
 <br>
 January 2020
 <br>
