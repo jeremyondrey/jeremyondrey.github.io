@@ -1,0 +1,70 @@
+I"�<h2 id="note-most-info-on-this-page-is-outdated-as-im-currently-looking-into-bitcoinlightning-based-systems">NOTE: most info on this page is outdated, as I’m currently looking into Bitcoin/Lightning based systems.</h2>
+
+<p>As part of my bachelor thesis, I am conducting an experiment to find out if blockchain technology can create new ways of decentralized music collaboration for sample based music.</p>
+
+<p><img src="/images/color_consensus/colors.png" alt="" /></p>
+
+<p><a href="http://colorconsensus.xyz">color_consensus</a> is a decentralized database of sounds matched with color values. Its main components are:</p>
+
+<ul>
+  <li>
+    <p>a content addressed data structure (IPFS), which makes sound files available to users regardless of who hosts them</p>
+  </li>
+  <li>
+    <p>a blockchain (Ethereum) and smart contracts, which list files and their matching color values</p>
+  </li>
+</ul>
+
+<p>Traditional music distribution is struggling with the fact that digital files are easy to share, color_consensus uses this as its main feature. The platform is designed to encourage a free flow of ideas, while being as simplified and open as possible. Music as a form of expression should not have to depend on centralized platforms, which can shut down, lose data or get hacked.
+Since all transactions are public, every upload can be traced back to the original uploader.</p>
+
+<p>I’ll be inviting a couple artists to collaborate for a music project, but the page will be available to any user with an internet connection and 2 browser extensions. This means that anyone can participate by adding their own sounds to the database, even if I didn’t invite them.</p>
+
+<p>As such, each user is personally responsible for the content they upload.
+<strong>Please only share your own content, and keep in mind that by doing so it might end up in other people’s work.</strong></p>
+
+<h1 id="ipfs">IPFS</h1>
+<p>As opposed to server based location addressing of files (HTTP), the Inter Planetary File System accesses content via unique cryptographic hashes.
+In practise, this means that as long as at least one node in the network has the files, anyone can access them. All samples, and even the whole client side web interface of this project are hosted on IPFS.</p>
+
+<p>To upload files, a fast way to get started is to use IPFS Companion for <a href="https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/">Firefox</a> or <a href="https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch">Chrome</a>.</p>
+
+<p><img src="/images/color_consensus/ipfs_companion_embedded.png" alt="" /></p>
+
+<p>To directly connect to IPFS nodes, it is recommended to install the <a href="https://ipfs.io/docs/install/">CLI</a>. The directory contains an install.sh file, after which you run the commands <code class="highlighter-rouge">ipfs init</code> and <code class="highlighter-rouge">ipfs daemon</code> in your favorite command line. If you only use the web extension, links will default to the ipfs.io gateway.</p>
+
+<p>If you add a sound file to IPFS using the plugin, it’ll spit out a long hash starting with Qm..</p>
+
+<p><img src="/images/color_consensus/ipfs_hash.png" alt="" /></p>
+
+<p>This hash references back to your sound file. When another user requests the file, it will be served directly from the IPFS node in your browser. As more nodes have access to the file over time, the file becomes more accessible and increasingly more robust.</p>
+
+<p>If nobody knows the content hash, the sound can’t be heard by anyone. To solve this, we need a way of sharing it with the public.</p>
+
+<h1 id="ethereum">Ethereum</h1>
+
+<p><a href="https://en.m.wikipedia.org/wiki/Ethereum">Ethereum</a> serves as the database which stores our sounds. Because IPFS hashes are hard to read by humans, users get to pick a matching color for each upload.</p>
+
+<p><strong>Once a hash is stored in the database, it cannot be deleted. It will remain in the blockchain for as long as Ethereum exists.</strong></p>
+
+<p>To connect to the Ethereum blockchain, please install the <a href="https://metamask.io/">Metamask</a> extension. <strong>Be sure to select the Rinkeby test network, as we’re not using real money in this experiment.</strong></p>
+
+<p><img src="/images/color_consensus/metamask.png" alt="" /></p>
+
+<p>With this extension, we are able to interact with the Ethereum blockchain. Reading from it is free, but writing to it costs a small amount of gas. Because Rinkeby is a test network, the currency we are using can be obtained <a href="https://faucet.rinkeby.io/">for free</a></p>
+
+<h1 id="usage">Usage</h1>
+
+<p>You don’t have to finish tracks or be a great sound designer to participate. <a href="http://colorconsensus.xyz">color_consensus</a> allows users to upload any type of audio material and pass it back into the database for others to use.
+To get started, here are some ideas of what you could do:</p>
+
+<ul>
+  <li>create samples from scratch</li>
+  <li>share field recordings you weren’t going to use anyways</li>
+  <li>sample/process existing files to feed back into the database</li>
+  <li>sequence existing files into loops, melodies &amp; grooves</li>
+  <li>get inspired by the pretty colors and make some music</li>
+</ul>
+
+<p>The more samples we create in the process, the more fun it’ll be!</p>
+:ET
