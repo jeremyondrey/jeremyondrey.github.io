@@ -1,10 +1,9 @@
 ---
 layout:    projects
-title:     
+title:     VR, CODE & INTERACTIVE
 permalink: /projects/
 ---
 
-## VR, CODE & INTERACTIVE
 
 <div class="section group">
 	<div class="col span_1_of_2">
