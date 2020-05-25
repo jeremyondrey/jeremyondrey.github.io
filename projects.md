@@ -1,9 +1,10 @@
 ---
 layout:    projects
-title:     PROJECTS
+title:     
 permalink: /projects/
 ---
 
+## VR, CODE & INTERACTIVE
 
 <div class="section group">
 	<div class="col span_1_of_2">
@@ -31,7 +32,7 @@ permalink: /projects/
 	<div class="col span_1_of_2">
 	</div>
 	<div class="col span_1_of_2">
-		<a href="/audiovsn"><img width="100%" height="100%" src="/images/portfolio/vsnn.png"> </a>
+		
 	</div>
 	<div class="col span_1_of_2">
 	</div>
