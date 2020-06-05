@@ -6,7 +6,7 @@ permalink: /music/
 
 <a href="https://fntlps.bandcamp.com/album/fntlps3"><img src="/images/music/fntlps3.png"></a>
 <br>
-Second finite-loops release, which is a compilation of tracks featuring [[-CRBRL-CTS-]], dreadmaul, moqwa and me.
+Third finite-loops release, which is a compilation of tracks featuring [[-CRBRL-CTS-]], dreadmaul, moqwa and me.
 <br>
 March 2020
 <br>
