@@ -1,13 +1,13 @@
 ---
 layout:    projects
-title:     VR, CODE & INTERACTIVE
+title:     
 permalink: /projects/
 ---
 
 
 <div class="section group">
 	<div class="col span_1_of_2">
-		<a href="/minesweeper"><img width="100%" height="100%" src="/images/portfolio/minesweeper.png"> </a>
+		<h1 class="grid-title">VR, CODE & MORE</h1>
 	</div>
 	<div class="col span_1_of_2">
 		<a href="/aeris"><img width="100%" height="100%" src="/images/portfolio/aeris.png"> </a>
@@ -28,23 +28,18 @@ permalink: /projects/
 	<div class="col span_1_of_2">
 		<a href="/color_consensus"><img width="100%" height="100%" src="/images/portfolio/color_consensus.png"> </a>
 	</div>
-	<div class="col span_1_of_2">
-	</div>
-	<div class="col span_1_of_2">
-		
+	<div class="col span_1_of_2"><a href="/minesweeper"><img width="100%" height="100%" src="/images/portfolio/minesweeper.png"> </a>
 	</div>
 	<div class="col span_1_of_2">
 	</div>
 </div>
 
-## FILM & GAME SOUND DESIGN
-
 <div class="section group">
 	<div class="col span_1_of_2">
-		<a href="/themask"><img width="100%" height="100%" src="/images/portfolio/scp-themask.png"> </a>
+		<h1 class="grid-title">FILM & GAME SOUND DESIGN</h1>
 	</div>
 	<div class="col span_1_of_2">
-		<a href="/diamonds"><img width="100%" height="100%" src="/images/portfolio/diamonds.png"> </a>
+		<a href="/themask"><img width="100%" height="100%" src="/images/portfolio/scp-themask.png"> </a>
 	</div>
 </div>
 
@@ -53,13 +48,13 @@ permalink: /projects/
 		<a href="/dave"><img width="100%" height="100%" src="/images/portfolio/dave.png"> </a>
 	</div>
 	<div class="col span_1_of_2">
-		<a href="/cryptroller"><img width="100%" height="100%" src="/images/portfolio/cryptroller.png"> </a>
+		<a href="/diamonds"><img width="100%" height="100%" src="/images/portfolio/diamonds.png"> </a>
 	</div>
 </div>
 
 <div class="section group">
 	<div class="col span_1_of_2">
-	
+		<a href="/cryptroller"><img width="100%" height="100%" src="/images/portfolio/cryptroller.png"> </a>
 	</div>
 	<div class="col span_1_of_2">
 		<a href="/mindfulness"><img width="100%" height="100%" src="/images/portfolio/mindfulness.png"> </a>
