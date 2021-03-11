@@ -4,18 +4,9 @@ title:
 permalink: /imprint/
 ---
 
-
-
-
-
 # Legal Disclosure
-Information in accordance with section 5 TMG
-
-```Jeremy Ondrey 
-Wienerstr 50
-64287 Darmstadt
-Telephone: 0157 70384547
-E-Mail: jeremy@lums.io
+This is a private webpage. To protect my privacy, my current address is hidden.
+Feel free to contact me at jeremy@lums.io
 ```
 
 
