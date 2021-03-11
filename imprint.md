@@ -4,7 +4,6 @@ title:
 permalink: /imprint/
 ---
 
-# Legal Disclosure
 This is a private webpage. To protect my privacy, my current name and address is hidden.
 Feel free to contact me at jeremy@lums.io
 
